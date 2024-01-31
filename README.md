@@ -2,7 +2,7 @@
 Pankhil Gawade
 
 ##  Overall goal of the project
-Aim is to compare the two different approches i.e Sentiment Analysis and Topic Modelling for the purpouse of Tesla Stock price movement prediction. 
+Aim is to compare the two different approches i.e Sentiment Analysis and Topic Modelling for the purpose of Tesla Stock price movement prediction. 
 
 ## Framework used and inclusion 
 In the case of Sentiment Analysis I will use the FinBERT. It is a Bidirectional Encoder Representation of a Transformer (BERT) pretrained on large corpus of financial data. 
